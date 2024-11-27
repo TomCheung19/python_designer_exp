@@ -1,0 +1,3 @@
+import MineSweeping
+
+MineSweeping.main()
